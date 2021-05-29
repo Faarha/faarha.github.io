@@ -14,7 +14,7 @@ module.exports = {
       // See the theme's README for all available options
       options: {
       	name: `Zákazkové stolárstvo Visk`,
-      	location: `Košice, Slovensko`,
+      	location: `Tešedíkova č. 60, Košice`,
       	socialMedia: [],
       	showThemeAuthor: false
       },
