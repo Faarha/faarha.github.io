@@ -6,14 +6,14 @@ const shouldAnalyseBundle = process.env.ANALYSE_BUNDLE
 
 module.exports = {
   siteMetadata: {
-    siteTitleAlt: `Visk - stolárstvo`,
+    siteTitleAlt: `VISK - stolárstvo`,
   },
   plugins: [
     {
       resolve: `@lekoarts/gatsby-theme-emilia`,
       // See the theme's README for all available options
       options: {
-      	name: `Zákazkové stolárstvo Visk`,
+      	name: `Vladimír Kasarda - VISK`,
       	location: `Tešedíkova č. 60, Košice`,
       	socialMedia: [],
       	showThemeAuthor: false
@@ -23,8 +23,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Visk - stolárstvo`,
-        short_name: `Visk`,
+        name: `VISK - stolárstvo`,
+        short_name: `VISK`,
         description: `Zákazkové stolárstvo.`,
         start_url: `/`,
         background_color: `#fff`,
