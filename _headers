@@ -47,6 +47,14 @@
   Link: </component---node-modules-lekoarts-gatsby-theme-emilia-core-src-templates-project-query-tsx-12f5c238c7cc1f241268.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/kuchynske-zostavy/page-data.json>; rel=preload; as=fetch; crossorigin
+/postele
+  Link: </webpack-runtime-a1f2fa7484cfb51fe852.js>; rel=preload; as=script
+  Link: </framework-d585a04b7d285a7760d6.js>; rel=preload; as=script
+  Link: </app-dbedf3d84705a5be058a.js>; rel=preload; as=script
+  Link: </66b32394d72d6541d7619afa7e37fa582365d3ce-a9b224556f52e36cd7d2.js>; rel=preload; as=script
+  Link: </component---node-modules-lekoarts-gatsby-theme-emilia-core-src-templates-project-query-tsx-12f5c238c7cc1f241268.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/postele/page-data.json>; rel=preload; as=fetch; crossorigin
 /okna
   Link: </webpack-runtime-a1f2fa7484cfb51fe852.js>; rel=preload; as=script
   Link: </framework-d585a04b7d285a7760d6.js>; rel=preload; as=script
